@@ -73,7 +73,7 @@ ul.navbar-nav li a{
 	font-size:14px;
 	text-transform:uppercase;
 	font-weight:400;
-	color:#fff; !important;
+	color:#f9392b; !important;
 }
 
 .is-sticky .main-menu{
@@ -89,7 +89,7 @@ ul.navbar-nav li a{
 }
 
 .is-sticky .main-menu ul.navbar-nav li a{
-	color:#f9392b !important;
+	color:#fff !important;
 }
 
 /*Top Navbar*/
