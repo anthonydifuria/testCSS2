@@ -442,7 +442,7 @@ ul.navbar-nav li a{
 
 /*Footer*/
 footer{
-	background:#414141;
+	background:#222222;
 	padding:60px 0;
 	color:#f8f8f8;
 }
@@ -461,7 +461,7 @@ ul.projects li {
 }
 
 .copyright{
-	background:#353535;
+	background:#222222;
 	padding:10px 0;
 	color:#fff;
 }
