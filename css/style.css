@@ -63,7 +63,7 @@ icon color: #a1a1a1;
 
 /*Top Navbar*/
 .navbar-inverse {
-  background-color: #222222;
+  background-color: #000;
   border-color: transparent;
   padding:10px 0;
 }
@@ -79,18 +79,18 @@ ul.navbar-nav li a{
 .is-sticky .main-menu{
 	z-index:9999999 !important;
 	position:absolute;
-	background:#000;
+	background:#222222;
 }
 
 .is-sticky .main-menu .navbar-inverse{
-	background:#000;
+	background:#222222;
 	transition:0.4s;
 	padding:15px 0;
 	
 }
 
 .is-sticky .main-menu ul.navbar-nav li a{
-	color:#222222; !important;
+	color:#000; !important;
 }
 
 /*Top Navbar*/
