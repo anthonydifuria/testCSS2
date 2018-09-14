@@ -443,7 +443,7 @@ ul.navbar-nav li a{
 /*Footer*/
 footer{
 	background:#222222;
-	padding:60px 0;
+	padding:100px 0;
 	color:#f8f8f8;
 }
 
@@ -966,7 +966,8 @@ form#commentform textarea {
 }
 
 .contact{
-	padding-bottom:70px;
+	background: #414141;
+	padding-bottom:100px;
 }
 
 .btn.btn-theme.margintop10 {
