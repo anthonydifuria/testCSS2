@@ -79,7 +79,7 @@ ul.navbar-nav li a{
 .is-sticky .main-menu{
 	z-index:9999999 !important;
 	position:absolute;
-	background:#f9392b;
+	background:#000;
 }
 
 .is-sticky .main-menu .navbar-inverse{
@@ -89,7 +89,7 @@ ul.navbar-nav li a{
 }
 
 .is-sticky .main-menu ul.navbar-nav li a{
-	color:#9b9b9b !important;
+	color:#f9392b !important;
 }
 
 /*Top Navbar*/
