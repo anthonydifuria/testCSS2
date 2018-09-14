@@ -73,24 +73,23 @@ ul.navbar-nav li a{
 	font-size:14px;
 	text-transform:uppercase;
 	font-weight:400;
-	color:#f9392b !important;
+	color:#414141 !important;
 }
 
 .is-sticky .main-menu{
 	z-index:9999999 !important;
 	position:absolute;
-	background:#fff;
+	background:#000;
 }
 
 .is-sticky .main-menu .navbar-inverse{
-	background:#222222;
+	background:#000;
 	transition:0.4s;
 	padding:15px 0;
-	
 }
 
 .is-sticky .main-menu ul.navbar-nav li a{
-	color:#000; !important;
+	color:#9b9b9b !important;
 }
 
 /*Top Navbar*/
